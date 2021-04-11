@@ -1,6 +1,6 @@
 # xboxdrv-python3
 
-Updated dependancies of 
+Updated dependencies of [xboxdrv](https://aur.archlinux.org/packages/xboxdrv/).
 
 To build/install into an arch-based system:
 1. `cd` into some place (temporary folder would probably be best)
@@ -10,5 +10,4 @@ To build/install into an arch-based system:
 5. `cd ..`
 6. `rm -rf xboxdrv-python3`
 7. `sudo systemctl start xboxdrv.service && sudo systemctl enable xboxdrv.service`
-
-7. Play your favorite games with a non-existant controller!
+8. Play your favorite games with a non-existant controller!
