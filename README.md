@@ -10,4 +10,4 @@ To build/install into an arch-based system:
 5. `cd ..`
 6. `rm -rf xboxdrv-python3`
 7. `sudo systemctl start xboxdrv.service && sudo systemctl enable xboxdrv.service`
-8. Play your favorite games with a non-existant controller!
+8. Play your favorite games with a non-existent controller!
